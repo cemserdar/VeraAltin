@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VeraAltin.Producer", "VeraAltin.Producer", "{AA41BC69-E153-65E1-9D20-96966ABCDC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "veraAltin", "VeraAltin.Producer\veraAltin\veraAltin.csproj", "{C6AFBD81-7C28-CCEC-0717-14D09401D789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6AFBD81-7C28-CCEC-0717-14D09401D789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AFBD81-7C28-CCEC-0717-14D09401D789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AFBD81-7C28-CCEC-0717-14D09401D789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AFBD81-7C28-CCEC-0717-14D09401D789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C6AFBD81-7C28-CCEC-0717-14D09401D789} = {AA41BC69-E153-65E1-9D20-96966ABCDC99}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64976916-03C0-4AC2-AF06-574DE4E98235}
+	EndGlobalSection
+EndGlobal

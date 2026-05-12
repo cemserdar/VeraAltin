@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3XtEE6DlxE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cemse\\OneDrive\\Masaüstü\\Project\\VeraAltin\\VeraAltin.Server\\VeraAltin.Server\\VeraAltin.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cemse\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.7\\microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "C:\\Users\\cemse\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\cemse\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\cemse\\.nuget\\packages\\rabbitmq.client\\7.2.1\\rabbitmq.client.7.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

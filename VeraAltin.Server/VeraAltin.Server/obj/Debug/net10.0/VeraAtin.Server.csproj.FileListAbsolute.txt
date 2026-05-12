@@ -1,0 +1,16 @@
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\VeraAtin.Server.csproj.AssemblyReference.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\VeraAtin.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\VeraAtin.Server.AssemblyInfoInputs.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\VeraAtin.Server.AssemblyInfo.cs
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\VeraAtin.Server.csproj.CoreCompileInputs.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\VeraAtin.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAtin.Server\obj\Debug\net10.0\VeraAtin.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\VeraAtin.Server.csproj.AssemblyReference.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\VeraAtin.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\VeraAtin.Server.AssemblyInfoInputs.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\VeraAtin.Server.AssemblyInfo.cs
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\VeraAtin.Server.csproj.CoreCompileInputs.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\VeraAtin.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Server\VeraAltin.Server\obj\Debug\net10.0\VeraAtin.Server.MvcApplicationPartsAssemblyInfo.cache

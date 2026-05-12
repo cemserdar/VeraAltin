@@ -1,0 +1,11 @@
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\bin\Debug\net10.0\VeraAltin.Shared.deps.json
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\bin\Debug\net10.0\VeraAltin.Shared.dll
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\bin\Debug\net10.0\VeraAltin.Shared.pdb
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\VeraAltin.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\VeraAltin.Shared.AssemblyInfoInputs.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\VeraAltin.Shared.AssemblyInfo.cs
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\VeraAltin.Shared.csproj.CoreCompileInputs.cache
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\VeraAltin.Shared.dll
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\refint\VeraAltin.Shared.dll
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\VeraAltin.Shared.pdb
+C:\Users\cemse\OneDrive\Masaüstü\Project\VeraAltin\VeraAltin.Shared\obj\Debug\net10.0\ref\VeraAltin.Shared.dll
