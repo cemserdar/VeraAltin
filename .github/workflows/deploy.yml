@@ -29,7 +29,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '/ui' # Sadece ui klasörünün içini yayınlar
+          path: './ui' # Sadece ui klasörünün içini yayınlar
 
       - name: Deploy to GitHub Pages
         id: deployment
