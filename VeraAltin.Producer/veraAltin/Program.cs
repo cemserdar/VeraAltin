@@ -8,7 +8,7 @@ using var connection = await factory.CreateConnectionAsync();
 using var channel = await connection.CreateChannelAsync();
 
 
-string apiKey = "APİKEYİNİZİ_BURAYA_YAPISTIRIN";
+string apiKey = "goldapi-ec3365e0fb9f693fb3c60fe00909fc39-io";
 string symbol = "XAU";
 string curr = "USD";
 string date = "";
